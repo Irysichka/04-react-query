@@ -12,8 +12,6 @@ import toast from "react-hot-toast";
 import { Movie } from "../../types/movie";
 import { useEffect } from "react";
 import MovieModal from "../MovieModal/MovieModal";
-import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
-
 
 
 export default function App() {
